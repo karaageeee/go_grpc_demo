@@ -9,7 +9,6 @@ Thanks to [作ってわかる！ はじめての gRPC](https://zenn.dev/hsaki/bo
 ```
 brew install protobuf
 which protoc
-
 ```
 
 ```
